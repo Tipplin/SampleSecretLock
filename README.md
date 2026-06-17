@@ -28,10 +28,10 @@
 #### Give me Feedback on:
 ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 #### kurschristian@gmail.com
-#### Germany, Bonn, February 21, 2023
+#### Germany, Cologne Porz Zuendorf, June 17, 2026
 ----
-#### Copyright © 2017-2023 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
-#### Copyright © 2017-2023 - Visual Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
+#### Copyright © 2017-2026 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
+#### Copyright © 2017-2026 - Visual Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
 ----
-#### Copyright © 1982-2023 - Trademarks, Websites, Visual Studio, Windows by Microsoft Corporation.
+#### Copyright © 1982-2026 - Trademarks, Websites, Visual Studio, Windows by Microsoft Corporation.
 ----
