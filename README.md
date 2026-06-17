@@ -1,6 +1,6 @@
 ----
 ![WelcomeGIF](https://user-images.githubusercontent.com/40143278/214815143-3ca2c9fb-7080-4534-9ca5-9d5e284afaa7.gif)
-#### Samples for Test the Assemblies. They are compiled with Visual Studio 2022 .NET6 or higher and You can download them.
+#### Samples for Test the Assemblies. They are compiled with Visual Studio 2026 .NET11 or higher and You can download them.
 ----
 #### 🧑 Project-Maintainer and Head-Author Christian "Tipplin" Kurs:
 ----
