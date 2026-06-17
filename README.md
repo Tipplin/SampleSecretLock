@@ -23,7 +23,7 @@
 ----
 #### Downloads:
 #### Secretlock.exe and VFL.dll for test simple App.
-#### but install must .NET Framework, here .NET6 or .NET7
+#### but install must .NET Framework, here .NET10 or higher.
 ----
 #### Give me Feedback on:
 ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
