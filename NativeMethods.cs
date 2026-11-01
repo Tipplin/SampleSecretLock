@@ -34,21 +34,21 @@
 // 5.
 // 6.
 //-----------------------------------------------------------------------------
-// Copyright © 2017-2023,
+// Copyright © 2017-2026,
 // by Visual Galaxy Framework Community Kernel Developer Team.
 //-----------------------------------------------------------------------------
 // by Head-Author: Christian "Tipplin" Kurs - Visual C# Senior Developer
-// Portions Copyright © 1982-2023 by Microsoft Corporation GmbH.
+// Portions Copyright © 1982-2026 by Microsoft Corporation GmbH.
 //-----------------------------------------------------------------------------
 // Same sourcecode by Microsoft, so we marked with Copyright !.
-// © 1982-2023 - Copyrights by Microsoft: Images, Icons, Signs, Gadgets, 
+// © 1982-2026 - Copyrights by Microsoft: Images, Icons, Signs, Gadgets, 
 // Copyright © and Tradewark by Microsoft Windows, Windows Logo, Visual Studio
 // ---------------------------------------------------------------------------
 //--------------------------------- -------------------------------------------
 //
 // written by 		Christian "Tipplin" Kurs
-// 				    Ahornweg 1
-//					-G - 53177 Bonn
+// 				    Asterweg 10
+//					-G - 51143 Cologne Porz Zuendorf
 //					Germany - Allemagne - Duitsland
 //----------------------------------------------------------------------------
 //					international phone	:	00-49-1734593440
@@ -197,11 +197,6 @@ namespace NamespaceBundle
 // fourth Alternate:
 // set you namespace here out Project-Solution
 // using namespacename;
-
-
-
-
-
 
 global using System;
 global using System.Runtime.InteropServices;
