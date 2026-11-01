@@ -9,19 +9,19 @@
 //----------------------------------------------------------------------------
 // Base Class	:	
 //----------------------------------------------------------------------------
-// Copyright © 2017-2023, by 
+// Copyright © 2017-2026, by 
 // Visual Galaxy Framework Community Kernel Developer Team.
-// by Head-Author: Christian "TIPPO" Kurs - Visual C# Senior Developer
-// Portions Copyright © 1982-2023 by Microsoft Corporation GmbH.
+// by Head-Author: Christian "Tipplin" Kurs - Visual C# Senior Developer
+// Portions Copyright © 1982-2026 by Microsoft Corporation GmbH.
 //----------------------------------------------------------------------------
 // Same sourcecode by Microsoft, so we marked with Copyright !.
-// © 1982-2023 by Copyrights by Microsoft: Images, Icons, Signs, Gadgets, 
+// © 1982-2026 by Copyrights by Microsoft: Images, Icons, Signs, Gadgets, 
 // Copyright © and Tradewark by Microsoft Windows, Windows Logo, Visual Studio
 //----------------------------------------------------------------------------
 //
 // written by 		Christian "Tipplin" Kurs
-// 				    Ahornweg 1
-//					-G - 53177 Bonn
+// 				    Asternweg 10
+//					-G - 51143 Cologne Porz Zuendorf
 //					Germany - Allemagne - Duitsland
 //----------------------------------------------------------------------------  
 //					international phone	:	00-49-1734593440
@@ -336,10 +336,10 @@ namespace Secret1;
         }
 
         //-------------------------------------------------------------------------
-        // TIPPO have change datatype from void to integer, is allowed in Visual C#
+        // Tipplin have change datatype from void to integer, is allowed in Visual C#
         // dont forget returned integer value!!
         // int Main, returned program-codes
-        // TIPPO: checked 0, 1,
+        // Tipplin: checked 0, 1,
         // unchecked
         // ..........................255 = unknown error
         //
@@ -361,7 +361,7 @@ namespace Secret1;
             // set here registered Voice "time to registration"
             //var t = new SoundPlayer(Resources.BACKSND);
 
-            // set here for TIPPO Image, hey cool media and play direct
+            // set here for Tipplin Image, hey cool media and play direct
             //var s = new SoundPlayer(Resources.NOTICE);
             
 
@@ -384,7 +384,7 @@ namespace Secret1;
             Console.Clear();
 
             // Set out Console Window Title
-            Console.Title = "Secret your Computer - Copyright © 2017-2023 by Christian'Tipplin' Kurs Visual C#/C++ Developer.";
+            Console.Title = "Secret your Computer - Copyright © 2017-2026 by Christian'Tipplin' Kurs Visual C#/C++ Developer.";
 
 
 
